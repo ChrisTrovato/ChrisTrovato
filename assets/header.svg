@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Chris Trovato — Build useful things. Keep learning.</title>
+<desc id="desc">A midnight-blue technical drawing with cyan orbital paths and a bright point on the horizon.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111d"/><stop offset="1" stop-color="#112b3c"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#48efd4"/><stop offset="1" stop-color="#56a7ff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#80bad5" stroke-opacity=".075"/></pattern>
+</defs>
+<rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+<g fill="none" stroke="#64c9ec" stroke-opacity=".28">
+<circle cx="1070" cy="174" r="114"/><circle cx="1070" cy="174" r="156"/>
+<ellipse cx="1070" cy="174" rx="204" ry="67" transform="rotate(-36 1070 174)"/>
+<path d="M853 174h398M1070 20v310" stroke-dasharray="3 9"/>
+</g>
+<path d="M892 265Q1004 307 1198 70" fill="none" stroke="url(#line)" stroke-width="3"/>
+<circle cx="1198" cy="70" r="7" fill="#72f6dc"/>
+<circle cx="1070" cy="174" r="5" fill="#91b8d1"/>
+<path d="M58 58h42" stroke="#65efd6" stroke-width="4"/>
+<text x="58" y="100" fill="#74e7d5" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">SOFTWARE / ENGINEERING / CURIOSITY</text>
+<text x="54" y="177" fill="#f5f9ff" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Chris Trovato</text>
+<text x="58" y="228" fill="#c4d5e7" font-family="Arial, Helvetica, sans-serif" font-size="27">Build useful things. Keep learning.</text>
+<text x="58" y="294" fill="#7897ae" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">PROJECTS · EXPERIMENTS · PROGRESS</text>
+</svg>
